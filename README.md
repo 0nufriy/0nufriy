@@ -43,5 +43,5 @@ I am a software engineering student interested in backend and frontend developme
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0nufriy&show_icons=true&locale=en&layout=compact&theme=dark" alt="0nufriy" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0nufriy&show_icons=true&locale=en&theme=dark" alt="0nufriy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0nufriy&show_icons=true&locale=en&layout=compact&theme=dark" alt="0nufriy" /></p>
